@@ -3,7 +3,7 @@ import React from 'react'
 const Bar = () => {
   return (
     <div>
-      buttion
+      
     </div>
   )
 }

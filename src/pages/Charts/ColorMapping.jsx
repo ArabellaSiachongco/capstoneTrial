@@ -3,7 +3,7 @@ import React from 'react'
 const ColorMapping = () => {
   return (
     <div>
-      buttion
+      
     </div>
   )
 }
